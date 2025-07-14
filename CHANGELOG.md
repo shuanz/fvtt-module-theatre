@@ -9,4 +9,7 @@
 - Separate settings game methods on the theatre class on a separate file for better readibility => Settings
 - Separate keybings game methods on the theatre class on a separate file for better readibility => Settings
 - Update workflow github action with the new bundle option
-- Clean up the code
+ - Clean up the code
+
+### 2.9.2
+- Verified compatibility with Foundry v13.
